@@ -1,0 +1,17 @@
+{
+  "vip_movement": 10,
+  "tree_fall": 9,
+  "public_event": 9,
+  "protest": 8,
+  "Debris": 8,
+  "accident": 6,
+  "construction": 5,
+  "road_conditions": 4,
+  "water_logging": 4,
+  "procession": 5,
+  "vehicle_breakdown": 3,
+  "pot_holes": 2,
+  "congestion": 2,
+  "others": 3,
+  "Fog / Low Visibility": 3
+}
